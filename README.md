@@ -17,29 +17,30 @@ Wave signal and spectrogram of the sample audio file from Speech Commands Datase
 
 
 
-Results of classifier with 78% correctness
+#### Results of classifier with 78% correctness
 
-![screenshot](./png/classifier1_acc.PNG)
-![screenshot](./png/classifier1_val.PNG)
+<p align="center" style="margin-top: 150px;">
+  <img style="display: inline-block;" width="45%" src="./png/classifier1_acc.PNG">
+  <img style="display: inline-block;" width="45%" src="./png/classifier1_val.PNG">
+ </p>
 
-
-
-Results of classifier with 83% correctness
-
-![screenshot](./png/classifier2_acc.PNG)
-![screenshot](./png/classifier2_val.PNG)
-
-
-
-Results of classifier with 92% correctness
-
-![screenshot](./png/classifier3_acc.PNG)
-![screenshot](./png/classifier3_val.PNG)
+#### Results of classifier with 83% correctness
+<p align="center" style="margin-top: 150px;">
+  <img style="display: inline-block;" width="45%"  src="./png/classifier2_acc.PNG">
+  <img style="display: inline-block;" width="45%" src="./png/classifier2_val.PNG">
+ </p>
 
 
+#### Results of classifier with 92% correctness
+<p align="center" style="margin-top: 150px;">
+  <img style="display: inline-block;" width="45%" src="./png/classifier3_acc.PNG">
+  <img style="display: inline-block;" width="45%" src="./png/classifier3_val.PNG">
+ </p>
 
-Results of generative adversarial network using discriminator loss and generator loss
 
-![screenshot](./png/gan.PNG)
+#### Results of generative adversarial network using discriminator loss and generator loss
+<p align="center" style="margin-top: 150px;">
+  <img style="display: inline-block;" src="./png/gan.png">
+ </p>
 
 
