@@ -13,9 +13,9 @@ Convolutional Neural Network and Generative Adversarial Network for Speech Recog
 ## Results
 Wave signal and spectrogram of the sample audio file from Speech Commands Dataset
 
-![screenshot](./png/spectogram.PNG)
-
-
+<p align="center" style="margin-top: 150px;">
+  <img style="display: inline-block;" src="./png/spectogram.PNG">
+ </p>
 
 #### Results of classifier with 78% correctness
 
