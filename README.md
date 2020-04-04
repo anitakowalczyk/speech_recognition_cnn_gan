@@ -40,7 +40,7 @@ Wave signal and spectrogram of the sample audio file from Speech Commands Datase
 
 #### Results of generative adversarial network using discriminator loss and generator loss
 <p align="center" style="margin-top: 150px;">
-  <img style="display: inline-block;" src="./png/gan.png">
+  <img style="display: inline-block;" src="./png/gan.PNG">
  </p>
 
 
